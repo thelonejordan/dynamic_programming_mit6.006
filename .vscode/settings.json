@@ -1,0 +1,6 @@
+{
+	"[python]": {
+		"editor.indentSize": "tabSize",
+		"editor.tabSize": 2,
+	}
+}
